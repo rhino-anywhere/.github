@@ -1,6 +1,6 @@
 # Welcome to Rhino Anywhere!
 
-![image](https://github.com/rhino-anywhere/.github/assets/28632338/59bb1629-eee4-4e41-a6b5-fe90a97bc8c4)
+![Rhino Bodies](https://github.com/rhino-anywhere/.github/assets/28632338/253c9c4d-1b12-40bb-873b-01caaae8c7bc)
 
 
 ## What is Rhino Anywhere
