@@ -22,6 +22,7 @@ Handy dandy links to help you get started, debug and learn!
 
 ### FAQ
 **Q** : Why not use remote desktop?
+
 **A** : Remote desktop or zoom is a sluggish experience that doesn't give you realtime control or the ability to reskin Rhino.
 
 ### Licensing
