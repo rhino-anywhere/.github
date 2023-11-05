@@ -11,6 +11,7 @@ You can create specific command sets for users,
 ## Contributtion Guidelines
 We love contributions! Contributions keep open source alive! Please firstly take a look at any open issues, they're a great place to get started helping with users real issues.
 For any issues you want to help solve, open a Pull Request and link the issue. The original issue creator will be very excited to collaborate 😁.
+[Contributing Guide](https://github.com/rhino-anywhere/.github/blob/main/CONTRIBUTING.md)
 
 ## Useful Resources
 Handy dandy links to help you get started, debug and learn!
