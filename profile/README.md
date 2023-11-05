@@ -1,7 +1,6 @@
 # Welcome to Rhino Anywhere!
 
-![Rhino Bodies](https://github.com/rhino-anywhere/.github/assets/28632338/253c9c4d-1b12-40bb-873b-01caaae8c7bc)
-
+![Rhino Bodies_Cropped](https://github.com/rhino-anywhere/.github/assets/28632338/2e6c60d0-9eee-462a-bf60-b530d3a0dda9)
 
 ## What is Rhino Anywhere
 Rhino Anywhere is a framework that enables high definition streaming of a Rhino Model Viewport to the web.
